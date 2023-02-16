@@ -100,6 +100,8 @@ ___
 
 # **Recursion**
 
+![recursion](https://cdn-images-1.medium.com/max/1600/0*bvQZxV6MneLT_cI4.jpg)
+
 > A recursive function must have a condition to stop calling itself. Otherwise, 
 the function is called indefinitely.
 >> Once the condition is met, the function stops calling itself. This is called the 
@@ -110,6 +112,8 @@ doesn't
 
 # **Closure**
 
+![closure](https://edward-huang.com/images/what-is-really-so-special-about-javascript-closure-/Closure%20JS.png)
+
 > Closure is one of the most 
 important, and often least 
 understood, concepts in 
@@ -119,6 +123,8 @@ closure as a way to
 access a function’s scope (its 
 variables) even once the 
 function has finished running.
+
+![end](https://th.bing.com/th/id/R.7b883e27f562dd411d5b940ef208a791?rik=1Cvo4oixHnuLNQ&pid=ImgRaw&r=0)
 
 
 
