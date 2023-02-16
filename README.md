@@ -33,12 +33,19 @@ JavaScript has 3 types of scope:
 ___
 
 Block Scope :
-: Before ES6 (2015), JavaScript had only     Global Scope and Function Scope.
-: ES6 introduced two important new           JavaScript keywords: let and const.
-: These two keywords provide Block Scope in   JavaScript.
-: Variables declared inside a { } block      cannot be accessed from outside the block:___
+
+- Before ES6 (2015), JavaScript had only     Global Scope and Function Scope.
+
+- ES6 introduced two important new           JavaScript keywords: let and const.
+
+- These two keywords provide Block Scope in   JavaScript.
+
+- Variables declared inside a { } block      cannot be accessed from outside the block:
+
+___
+
  Local Scope :
-: Variables declared within a JavaScript function, become LOCAL to the function.
+ - Variables declared within a JavaScript function, become LOCAL to the function.
 
 > Local variables have Function Scope:
 >> They can only be accessed from within the function.
@@ -51,18 +58,18 @@ Local variables are created when a function starts, and deleted when the functio
  
  Function Scope :
  
-: JavaScript has function scope: Each function creates a new scope.
+- JavaScript has function scope: Each function creates a new scope.
 
-: Variables defined inside a function are not accessible (visible) from outside the function.
+- Variables defined inside a function are not accessible (visible) from outside the function.
 
-: Variables declared with var, let and const are quite similar when declared inside a function.
+- Variables declared with var, let and const are quite similar when declared inside a function.
 
-: They all have Function Scope:
+- They all have Function Scope:
  
  ___
  
  Global JavaScript Variables :
-: A variable declared outside a function, becomes GLOBAL.
+- A variable declared outside a function, becomes GLOBAL.
 
 > A global variable has Global Scope:
 >> All scripts and functions on a web page can access it.
@@ -70,22 +77,22 @@ Local variables are created when a function starts, and deleted when the functio
 ___
 
  Global Scope :
-: Variables declared Globally (outside any function) have Global Scope.
+- Variables declared Globally (outside any function) have Global Scope.
 
-: Global variables can be accessed from anywhere in a JavaScript program.
+- Global variables can be accessed from anywhere in a JavaScript program.
 
-: Variables declared with var, let and const are quite similar when declared outside a block.
+- Variables declared with var, let and const are quite similar when declared outside a block.
 
-: They all have Global Scope:
+- They all have Global Scope:
 
                                           3.Hoisting
 
 *Hoisting is JavaScript's default behavior of moving declarations to the top.*
 
  JavaScript Declarations are Hoisted :
-: In JavaScript, a variable can be declared after it has been used.
+- In JavaScript, a variable can be declared after it has been used.
 
-: In other words; a variable can be used before it has been declared.
+- In other words; a variable can be used before it has been declared.
 
 > Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
 
