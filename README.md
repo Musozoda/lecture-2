@@ -32,7 +32,7 @@ JavaScript has 3 types of scope:
 
 ___
 
-Block Scope :
+Block Scope 
 
 : Before ES6 (2015), JavaScript had only     Global Scope and Function Scope.
 
@@ -85,12 +85,12 @@ ___
 
                                           3.Hoisting
 
-*==Hoisting is JavaScript's default behavior of moving declarations to the top.==*
+*Hoisting is JavaScript's default behavior of moving declarations to the top.*
 
  JavaScript Declarations are Hoisted :
-: *In JavaScript, a variable can be declared after it has been used.*
+: In JavaScript, a variable can be declared after it has been used.
 
-: *In other words; a variable can be used before it has been declared.*
+: In other words; a variable can be used before it has been declared.
 
 > Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
 
