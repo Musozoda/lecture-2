@@ -7,7 +7,7 @@
 ___
 ___
 
-                1.Functions
+                                          1.Functions
 ![function](https://masteringjs.io/assets/logo.png) 
 
 > A JavaScript function is a block of code > designed to perform a particular task.
