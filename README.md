@@ -96,7 +96,10 @@ ___
 
 > Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
 
-                                          1.Functions
+                                          4.Recursion and Closure
+
+# **Recursion**
+
 > A recursive function must have a condition to stop calling itself. Otherwise, 
 the function is called indefinitely.
 >> Once the condition is met, the function stops calling itself. This is called the 
@@ -105,6 +108,17 @@ base condition.
 approach) where one branch makes the recursive call, and the other 
 doesn't
 
+# **Closure**
+
+> Closure is one of the most 
+important, and often least 
+understood, concepts in 
+JavaScript. You can think of 
+closure as a way to 
+“remember” and continue to 
+access a function’s scope (its 
+variables) even once the 
+function has finished running.
 
 
 
