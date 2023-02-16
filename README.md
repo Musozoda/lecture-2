@@ -94,6 +94,15 @@ ___
 
 > Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).
 
+                                          1.Functions
+> A recursive function must have a condition to stop calling itself. Otherwise, 
+the function is called indefinitely.
+>> Once the condition is met, the function stops calling itself. This is called the 
+base condition.
+>> >> To prevent infinite recursion, you can use if...else statement (or similar 
+approach) where one branch makes the recursive call, and the other 
+doesn't
+
 
 
 
