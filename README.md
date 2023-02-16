@@ -24,6 +24,7 @@ Declared functions are not executed immediately. They are "saved for later use",
 -  the variable can be used as a function:
 
                                           2.Scope
+![scope](https://lh3.googleusercontent.com/proxy/wOcIrKvn-3uP-hKAm5Wx4qdiJlaNCrKTZC2KNMyjdAtfnyUKQ_6QHpMxM-eUTAhC1_dGG5Uv5P16rXPcTxQWIKWm7oMWai7NIbahcmSX3_X-YM9-vMnIS-b2Y2NSlbJxX3GBRfxmmQ_4ikP9HbRQSZPiOxEbT4plz5rHtHVud2_7mFYh=w1200-h630-p-k-no-nu)
 JavaScript has 3 types of scope: 
 1. Block scope
 2. Function scope
